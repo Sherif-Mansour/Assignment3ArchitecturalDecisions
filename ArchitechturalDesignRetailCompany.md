@@ -4,7 +4,7 @@
 
 # 1. ADR - Native, web, or hybrid app
 
-## Title omit in TOC -->
+## Title
 Selection of App Type: Native, Web, or Hybrid
 
 ## Status
